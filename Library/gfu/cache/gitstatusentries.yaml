@@ -1,0 +1,3400 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 5
+  lastUpdatedAtString: 2019-02-25T19:54:22.266-06:00
+  initializedAtString: 2019-02-25T19:53:49.210-06:00
+  entries:
+  - path: Assets\Back.png
+    fullPath: D:\Unity\Projects\FungusTest\Assets\Back.png
+    projectPath: Assets\Back.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Back.png.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\Back.png.meta
+    projectPath: Assets\Back.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Credits.png
+    fullPath: D:\Unity\Projects\FungusTest\Assets\Credits.png
+    projectPath: Assets\Credits.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Credits.png.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\Credits.png.meta
+    projectPath: Assets\Credits.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\CreditsButton.png
+    fullPath: D:\Unity\Projects\FungusTest\Assets\CreditsButton.png
+    projectPath: Assets\CreditsButton.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\CreditsButton.png.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\CreditsButton.png.meta
+    projectPath: Assets\CreditsButton.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\ExitButton.png
+    fullPath: D:\Unity\Projects\FungusTest\Assets\ExitButton.png
+    projectPath: Assets\ExitButton.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\ExitButton.png.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\ExitButton.png.meta
+    projectPath: Assets\ExitButton.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\FungusExamples\Conversation.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Conversation.meta
+    projectPath: Assets\FungusExamples\Conversation.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Conversation\Conversation.unity
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Conversation\Conversation.unity
+    projectPath: Assets\FungusExamples\Conversation\Conversation.unity
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Conversation\Conversation.unity.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Conversation\Conversation.unity.meta
+    projectPath: Assets\FungusExamples\Conversation\Conversation.unity.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Conversation\CustomSayDialogs.unity
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Conversation\CustomSayDialogs.unity
+    projectPath: Assets\FungusExamples\Conversation\CustomSayDialogs.unity
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Conversation\CustomSayDialogs.unity.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Conversation\CustomSayDialogs.unity.meta
+    projectPath: Assets\FungusExamples\Conversation\CustomSayDialogs.unity.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Conversation\NarrativeLog.unity
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Conversation\NarrativeLog.unity
+    projectPath: Assets\FungusExamples\Conversation\NarrativeLog.unity
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Conversation\NarrativeLog.unity.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Conversation\NarrativeLog.unity.meta
+    projectPath: Assets\FungusExamples\Conversation\NarrativeLog.unity.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\DragAndDrop.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\DragAndDrop.meta
+    projectPath: Assets\FungusExamples\DragAndDrop.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\DragAndDrop\DragAndDrop(EventSystem).unity
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\DragAndDrop\DragAndDrop(EventSystem).unity
+    projectPath: Assets\FungusExamples\DragAndDrop\DragAndDrop(EventSystem).unity
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\DragAndDrop\DragAndDrop(EventSystem).unity.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\DragAndDrop\DragAndDrop(EventSystem).unity.meta
+    projectPath: Assets\FungusExamples\DragAndDrop\DragAndDrop(EventSystem).unity.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\DragAndDrop\DragAndDrop.unity
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\DragAndDrop\DragAndDrop.unity
+    projectPath: Assets\FungusExamples\DragAndDrop\DragAndDrop.unity
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\DragAndDrop\DragAndDrop.unity.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\DragAndDrop\DragAndDrop.unity.meta
+    projectPath: Assets\FungusExamples\DragAndDrop\DragAndDrop.unity.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\EnterName.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\EnterName.meta
+    projectPath: Assets\FungusExamples\EnterName.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\EnterName\EnterName.unity
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\EnterName\EnterName.unity
+    projectPath: Assets\FungusExamples\EnterName\EnterName.unity
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\EnterName\EnterName.unity.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\EnterName\EnterName.unity.meta
+    projectPath: Assets\FungusExamples\EnterName\EnterName.unity.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson.meta
+    projectPath: Assets\FungusExamples\FirstPerson.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\FirstPersonDemo.unity
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\FirstPersonDemo.unity
+    projectPath: Assets\FungusExamples\FirstPerson\FirstPersonDemo.unity
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\FirstPersonDemo.unity.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\FirstPersonDemo.unity.meta
+    projectPath: Assets\FungusExamples\FirstPerson\FirstPersonDemo.unity.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Prefabs.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Prefabs.meta
+    projectPath: Assets\FungusExamples\FirstPerson\Prefabs.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Prefabs\Button.prefab
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Prefabs\Button.prefab
+    projectPath: Assets\FungusExamples\FirstPerson\Prefabs\Button.prefab
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Prefabs\Button.prefab.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Prefabs\Button.prefab.meta
+    projectPath: Assets\FungusExamples\FirstPerson\Prefabs\Button.prefab.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Prefabs\Door.prefab
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Prefabs\Door.prefab
+    projectPath: Assets\FungusExamples\FirstPerson\Prefabs\Door.prefab
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Prefabs\Door.prefab.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Prefabs\Door.prefab.meta
+    projectPath: Assets\FungusExamples\FirstPerson\Prefabs\Door.prefab.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Prefabs\Key.prefab
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Prefabs\Key.prefab
+    projectPath: Assets\FungusExamples\FirstPerson\Prefabs\Key.prefab
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Prefabs\Key.prefab.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Prefabs\Key.prefab.meta
+    projectPath: Assets\FungusExamples\FirstPerson\Prefabs\Key.prefab.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Prefabs\Lock.prefab
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Prefabs\Lock.prefab
+    projectPath: Assets\FungusExamples\FirstPerson\Prefabs\Lock.prefab
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Prefabs\Lock.prefab.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Prefabs\Lock.prefab.meta
+    projectPath: Assets\FungusExamples\FirstPerson\Prefabs\Lock.prefab.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Scripts.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Scripts.meta
+    projectPath: Assets\FungusExamples\FirstPerson\Scripts.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Scripts\ForceCursorVisible.cs
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Scripts\ForceCursorVisible.cs
+    projectPath: Assets\FungusExamples\FirstPerson\Scripts\ForceCursorVisible.cs
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Scripts\ForceCursorVisible.cs.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Scripts\ForceCursorVisible.cs.meta
+    projectPath: Assets\FungusExamples\FirstPerson\Scripts\ForceCursorVisible.cs.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Scripts\FPDemoPriorityRouter.cs
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Scripts\FPDemoPriorityRouter.cs
+    projectPath: Assets\FungusExamples\FirstPerson\Scripts\FPDemoPriorityRouter.cs
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Scripts\FPDemoPriorityRouter.cs.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Scripts\FPDemoPriorityRouter.cs.meta
+    projectPath: Assets\FungusExamples\FirstPerson\Scripts\FPDemoPriorityRouter.cs.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Scripts\LookingAtDoor.cs
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Scripts\LookingAtDoor.cs
+    projectPath: Assets\FungusExamples\FirstPerson\Scripts\LookingAtDoor.cs
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Scripts\LookingAtDoor.cs.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Scripts\LookingAtDoor.cs.meta
+    projectPath: Assets\FungusExamples\FirstPerson\Scripts\LookingAtDoor.cs.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Scripts\SimpleForceMovement.cs
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Scripts\SimpleForceMovement.cs
+    projectPath: Assets\FungusExamples\FirstPerson\Scripts\SimpleForceMovement.cs
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Scripts\SimpleForceMovement.cs.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Scripts\SimpleForceMovement.cs.meta
+    projectPath: Assets\FungusExamples\FirstPerson\Scripts\SimpleForceMovement.cs.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Scripts\SimpleMouseLook.cs
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Scripts\SimpleMouseLook.cs
+    projectPath: Assets\FungusExamples\FirstPerson\Scripts\SimpleMouseLook.cs
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Scripts\SimpleMouseLook.cs.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Scripts\SimpleMouseLook.cs.meta
+    projectPath: Assets\FungusExamples\FirstPerson\Scripts\SimpleMouseLook.cs.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Visuals.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Visuals.meta
+    projectPath: Assets\FungusExamples\FirstPerson\Visuals.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Visuals\Google Poly.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Visuals\Google
+      Poly.meta
+    projectPath: Assets\FungusExamples\FirstPerson\Visuals\Google Poly.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Button.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Visuals\Google
+      Poly\Button.meta
+    projectPath: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Button.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Button\Button_01.mtl
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Visuals\Google
+      Poly\Button\Button_01.mtl
+    projectPath: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Button\Button_01.mtl
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Button\Button_01.mtl.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Visuals\Google
+      Poly\Button\Button_01.mtl.meta
+    projectPath: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Button\Button_01.mtl.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Button\Button_01.obj
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Visuals\Google
+      Poly\Button\Button_01.obj
+    projectPath: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Button\Button_01.obj
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Button\Button_01.obj.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Visuals\Google
+      Poly\Button\Button_01.obj.meta
+    projectPath: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Button\Button_01.obj.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Button\CC-BY.txt
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Visuals\Google
+      Poly\Button\CC-BY.txt
+    projectPath: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Button\CC-BY.txt
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Button\CC-BY.txt.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Visuals\Google
+      Poly\Button\CC-BY.txt.meta
+    projectPath: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Button\CC-BY.txt.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Door.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Visuals\Google
+      Poly\Door.meta
+    projectPath: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Door.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Door\CC-BY.txt
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Visuals\Google
+      Poly\Door\CC-BY.txt
+    projectPath: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Door\CC-BY.txt
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Door\CC-BY.txt.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Visuals\Google
+      Poly\Door\CC-BY.txt.meta
+    projectPath: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Door\CC-BY.txt.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Door\CHAHIN_DOOR.mtl
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Visuals\Google
+      Poly\Door\CHAHIN_DOOR.mtl
+    projectPath: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Door\CHAHIN_DOOR.mtl
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Door\CHAHIN_DOOR.mtl.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Visuals\Google
+      Poly\Door\CHAHIN_DOOR.mtl.meta
+    projectPath: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Door\CHAHIN_DOOR.mtl.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Door\CHAHIN_DOOR.obj
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Visuals\Google
+      Poly\Door\CHAHIN_DOOR.obj
+    projectPath: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Door\CHAHIN_DOOR.obj
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Door\CHAHIN_DOOR.obj.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Visuals\Google
+      Poly\Door\CHAHIN_DOOR.obj.meta
+    projectPath: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Door\CHAHIN_DOOR.obj.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Door\CHAHIN_DOOR_TEXTURE.jpg
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Visuals\Google
+      Poly\Door\CHAHIN_DOOR_TEXTURE.jpg
+    projectPath: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Door\CHAHIN_DOOR_TEXTURE.jpg
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Door\CHAHIN_DOOR_TEXTURE.jpg.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Visuals\Google
+      Poly\Door\CHAHIN_DOOR_TEXTURE.jpg.meta
+    projectPath: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Door\CHAHIN_DOOR_TEXTURE.jpg.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Key.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Visuals\Google
+      Poly\Key.meta
+    projectPath: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Key.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Key\CC-BY.txt
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Visuals\Google
+      Poly\Key\CC-BY.txt
+    projectPath: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Key\CC-BY.txt
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Key\CC-BY.txt.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Visuals\Google
+      Poly\Key\CC-BY.txt.meta
+    projectPath: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Key\CC-BY.txt.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Key\Key_01(1).obj
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Visuals\Google
+      Poly\Key\Key_01(1).obj
+    projectPath: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Key\Key_01(1).obj
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Key\Key_01(1).obj.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Visuals\Google
+      Poly\Key\Key_01(1).obj.meta
+    projectPath: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Key\Key_01(1).obj.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Key\Key_01.mtl
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Visuals\Google
+      Poly\Key\Key_01.mtl
+    projectPath: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Key\Key_01.mtl
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Key\Key_01.mtl.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Visuals\Google
+      Poly\Key\Key_01.mtl.meta
+    projectPath: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Key\Key_01.mtl.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Lock.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Visuals\Google
+      Poly\Lock.meta
+    projectPath: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Lock.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Lock\CC-BY.txt
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Visuals\Google
+      Poly\Lock\CC-BY.txt
+    projectPath: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Lock\CC-BY.txt
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Lock\CC-BY.txt.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Visuals\Google
+      Poly\Lock\CC-BY.txt.meta
+    projectPath: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Lock\CC-BY.txt.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Lock\materials.mtl
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Visuals\Google
+      Poly\Lock\materials.mtl
+    projectPath: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Lock\materials.mtl
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Lock\materials.mtl.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Visuals\Google
+      Poly\Lock\materials.mtl.meta
+    projectPath: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Lock\materials.mtl.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Lock\model.obj
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Visuals\Google
+      Poly\Lock\model.obj
+    projectPath: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Lock\model.obj
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Lock\model.obj.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FirstPerson\Visuals\Google
+      Poly\Lock\model.obj.meta
+    projectPath: Assets\FungusExamples\FirstPerson\Visuals\Google Poly\Lock\model.obj.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusLua.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusLua.meta
+    projectPath: Assets\FungusExamples\FungusLua.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusLua\Bindings.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusLua\Bindings.meta
+    projectPath: Assets\FungusExamples\FungusLua\Bindings.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusLua\Bindings\CustomScript.cs
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusLua\Bindings\CustomScript.cs
+    projectPath: Assets\FungusExamples\FungusLua\Bindings\CustomScript.cs
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusLua\Bindings\CustomScript.cs.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusLua\Bindings\CustomScript.cs.meta
+    projectPath: Assets\FungusExamples\FungusLua\Bindings\CustomScript.cs.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusLua\Bindings\CustomScriptExample.unity
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusLua\Bindings\CustomScriptExample.unity
+    projectPath: Assets\FungusExamples\FungusLua\Bindings\CustomScriptExample.unity
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusLua\Bindings\CustomScriptExample.unity.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusLua\Bindings\CustomScriptExample.unity.meta
+    projectPath: Assets\FungusExamples\FungusLua\Bindings\CustomScriptExample.unity.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusLua\Bindings\SpawnPrefab.unity
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusLua\Bindings\SpawnPrefab.unity
+    projectPath: Assets\FungusExamples\FungusLua\Bindings\SpawnPrefab.unity
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusLua\Bindings\SpawnPrefab.unity.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusLua\Bindings\SpawnPrefab.unity.meta
+    projectPath: Assets\FungusExamples\FungusLua\Bindings\SpawnPrefab.unity.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusLua\Bindings\TestSprite.prefab
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusLua\Bindings\TestSprite.prefab
+    projectPath: Assets\FungusExamples\FungusLua\Bindings\TestSprite.prefab
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusLua\Bindings\TestSprite.prefab.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusLua\Bindings\TestSprite.prefab.meta
+    projectPath: Assets\FungusExamples\FungusLua\Bindings\TestSprite.prefab.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusLua\Flowchart.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusLua\Flowchart.meta
+    projectPath: Assets\FungusExamples\FungusLua\Flowchart.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusLua\Flowchart\Blocks.unity
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusLua\Flowchart\Blocks.unity
+    projectPath: Assets\FungusExamples\FungusLua\Flowchart\Blocks.unity
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusLua\Flowchart\Blocks.unity.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusLua\Flowchart\Blocks.unity.meta
+    projectPath: Assets\FungusExamples\FungusLua\Flowchart\Blocks.unity.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusLua\Flowchart\ExecuteLua.unity
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusLua\Flowchart\ExecuteLua.unity
+    projectPath: Assets\FungusExamples\FungusLua\Flowchart\ExecuteLua.unity
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusLua\Flowchart\ExecuteLua.unity.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusLua\Flowchart\ExecuteLua.unity.meta
+    projectPath: Assets\FungusExamples\FungusLua\Flowchart\ExecuteLua.unity.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusLua\Flowchart\Variables.unity
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusLua\Flowchart\Variables.unity
+    projectPath: Assets\FungusExamples\FungusLua\Flowchart\Variables.unity
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusLua\Flowchart\Variables.unity.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusLua\Flowchart\Variables.unity.meta
+    projectPath: Assets\FungusExamples\FungusLua\Flowchart\Variables.unity.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusLua\HelloWorld.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusLua\HelloWorld.meta
+    projectPath: Assets\FungusExamples\FungusLua\HelloWorld.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusLua\HelloWorld\HelloWorld.unity
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusLua\HelloWorld\HelloWorld.unity
+    projectPath: Assets\FungusExamples\FungusLua\HelloWorld\HelloWorld.unity
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusLua\HelloWorld\HelloWorld.unity.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusLua\HelloWorld\HelloWorld.unity.meta
+    projectPath: Assets\FungusExamples\FungusLua\HelloWorld\HelloWorld.unity.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusLua\Localization.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusLua\Localization.meta
+    projectPath: Assets\FungusExamples\FungusLua\Localization.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusLua\Localization\Localization.unity
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusLua\Localization\Localization.unity
+    projectPath: Assets\FungusExamples\FungusLua\Localization\Localization.unity
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusLua\Localization\Localization.unity.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusLua\Localization\Localization.unity.meta
+    projectPath: Assets\FungusExamples\FungusLua\Localization\Localization.unity.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusLua\Localization\stringtable.txt
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusLua\Localization\stringtable.txt
+    projectPath: Assets\FungusExamples\FungusLua\Localization\stringtable.txt
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusLua\Localization\stringtable.txt.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusLua\Localization\stringtable.txt.meta
+    projectPath: Assets\FungusExamples\FungusLua\Localization\stringtable.txt.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusLua\Narrative.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusLua\Narrative.meta
+    projectPath: Assets\FungusExamples\FungusLua\Narrative.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusLua\Narrative\JungleStory.unity
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusLua\Narrative\JungleStory.unity
+    projectPath: Assets\FungusExamples\FungusLua\Narrative\JungleStory.unity
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusLua\Narrative\JungleStory.unity.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusLua\Narrative\JungleStory.unity.meta
+    projectPath: Assets\FungusExamples\FungusLua\Narrative\JungleStory.unity.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusLua\Narrative\NarrativeExample.unity
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusLua\Narrative\NarrativeExample.unity
+    projectPath: Assets\FungusExamples\FungusLua\Narrative\NarrativeExample.unity
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusLua\Narrative\NarrativeExample.unity.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusLua\Narrative\NarrativeExample.unity.meta
+    projectPath: Assets\FungusExamples\FungusLua\Narrative\NarrativeExample.unity.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusLua\Narrative\Resources.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusLua\Narrative\Resources.meta
+    projectPath: Assets\FungusExamples\FungusLua\Narrative\Resources.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusLua\Narrative\Resources\Lua.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusLua\Narrative\Resources\Lua.meta
+    projectPath: Assets\FungusExamples\FungusLua\Narrative\Resources\Lua.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusLua\Narrative\Resources\Lua\junglestory.txt
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusLua\Narrative\Resources\Lua\junglestory.txt
+    projectPath: Assets\FungusExamples\FungusLua\Narrative\Resources\Lua\junglestory.txt
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusLua\Narrative\Resources\Lua\junglestory.txt.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusLua\Narrative\Resources\Lua\junglestory.txt.meta
+    projectPath: Assets\FungusExamples\FungusLua\Narrative\Resources\Lua\junglestory.txt.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusLua\Narrative\StageAndPortraits.unity
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusLua\Narrative\StageAndPortraits.unity
+    projectPath: Assets\FungusExamples\FungusLua\Narrative\StageAndPortraits.unity
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusLua\Narrative\StageAndPortraits.unity.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusLua\Narrative\StageAndPortraits.unity.meta
+    projectPath: Assets\FungusExamples\FungusLua\Narrative\StageAndPortraits.unity.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusLua\Store.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusLua\Store.meta
+    projectPath: Assets\FungusExamples\FungusLua\Store.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusLua\Store\SceneA.unity
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusLua\Store\SceneA.unity
+    projectPath: Assets\FungusExamples\FungusLua\Store\SceneA.unity
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusLua\Store\SceneA.unity.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusLua\Store\SceneA.unity.meta
+    projectPath: Assets\FungusExamples\FungusLua\Store\SceneA.unity.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusLua\Store\SceneB.unity
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusLua\Store\SceneB.unity
+    projectPath: Assets\FungusExamples\FungusLua\Store\SceneB.unity
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusLua\Store\SceneB.unity.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusLua\Store\SceneB.unity.meta
+    projectPath: Assets\FungusExamples\FungusLua\Store\SceneB.unity.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusLua\Trigger.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusLua\Trigger.meta
+    projectPath: Assets\FungusExamples\FungusLua\Trigger.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusLua\Trigger\Trigger.unity
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusLua\Trigger\Trigger.unity
+    projectPath: Assets\FungusExamples\FungusLua\Trigger\Trigger.unity
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusLua\Trigger\Trigger.unity.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusLua\Trigger\Trigger.unity.meta
+    projectPath: Assets\FungusExamples\FungusLua\Trigger\Trigger.unity.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusTown.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusTown.meta
+    projectPath: Assets\FungusExamples\FungusTown.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusTown\FungusTown.unity
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusTown\FungusTown.unity
+    projectPath: Assets\FungusExamples\FungusTown\FungusTown.unity
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusTown\FungusTown.unity.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusTown\FungusTown.unity.meta
+    projectPath: Assets\FungusExamples\FungusTown\FungusTown.unity.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusTown\Materials.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusTown\Materials.meta
+    projectPath: Assets\FungusExamples\FungusTown\Materials.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusTown\Materials\WhiteSmoke.jpg
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusTown\Materials\WhiteSmoke.jpg
+    projectPath: Assets\FungusExamples\FungusTown\Materials\WhiteSmoke.jpg
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusTown\Materials\WhiteSmoke.jpg.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusTown\Materials\WhiteSmoke.jpg.meta
+    projectPath: Assets\FungusExamples\FungusTown\Materials\WhiteSmoke.jpg.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusTown\Materials\WhiteSmoke.mat
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusTown\Materials\WhiteSmoke.mat
+    projectPath: Assets\FungusExamples\FungusTown\Materials\WhiteSmoke.mat
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusTown\Materials\WhiteSmoke.mat.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusTown\Materials\WhiteSmoke.mat.meta
+    projectPath: Assets\FungusExamples\FungusTown\Materials\WhiteSmoke.mat.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusTown\Readme.txt
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusTown\Readme.txt
+    projectPath: Assets\FungusExamples\FungusTown\Readme.txt
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusTown\Readme.txt.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusTown\Readme.txt.meta
+    projectPath: Assets\FungusExamples\FungusTown\Readme.txt.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusTown\Sprites.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusTown\Sprites.meta
+    projectPath: Assets\FungusExamples\FungusTown\Sprites.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusTown\Sprites\FungusLogo.png
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusTown\Sprites\FungusLogo.png
+    projectPath: Assets\FungusExamples\FungusTown\Sprites\FungusLogo.png
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusTown\Sprites\FungusLogo.png.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusTown\Sprites\FungusLogo.png.meta
+    projectPath: Assets\FungusExamples\FungusTown\Sprites\FungusLogo.png.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusTown\Sprites\FungusTown_1.png
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusTown\Sprites\FungusTown_1.png
+    projectPath: Assets\FungusExamples\FungusTown\Sprites\FungusTown_1.png
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusTown\Sprites\FungusTown_1.png.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusTown\Sprites\FungusTown_1.png.meta
+    projectPath: Assets\FungusExamples\FungusTown\Sprites\FungusTown_1.png.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusTown\Sprites\FungusTown_2.png
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusTown\Sprites\FungusTown_2.png
+    projectPath: Assets\FungusExamples\FungusTown\Sprites\FungusTown_2.png
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusTown\Sprites\FungusTown_2.png.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusTown\Sprites\FungusTown_2.png.meta
+    projectPath: Assets\FungusExamples\FungusTown\Sprites\FungusTown_2.png.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusTown\Sprites\FungusTown_3.png
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusTown\Sprites\FungusTown_3.png
+    projectPath: Assets\FungusExamples\FungusTown\Sprites\FungusTown_3.png
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\FungusTown\Sprites\FungusTown_3.png.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\FungusTown\Sprites\FungusTown_3.png.meta
+    projectPath: Assets\FungusExamples\FungusTown\Sprites\FungusTown_3.png.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\iTween.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\iTween.meta
+    projectPath: Assets\FungusExamples\iTween.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\iTween\iTween.unity
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\iTween\iTween.unity
+    projectPath: Assets\FungusExamples\iTween\iTween.unity
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\iTween\iTween.unity.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\iTween\iTween.unity.meta
+    projectPath: Assets\FungusExamples\iTween\iTween.unity.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\JumpingPrax.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\JumpingPrax.meta
+    projectPath: Assets\FungusExamples\JumpingPrax.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\JumpingPrax\Animations.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\JumpingPrax\Animations.meta
+    projectPath: Assets\FungusExamples\JumpingPrax\Animations.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\JumpingPrax\Animations\GreenAlien.controller
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\JumpingPrax\Animations\GreenAlien.controller
+    projectPath: Assets\FungusExamples\JumpingPrax\Animations\GreenAlien.controller
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\JumpingPrax\Animations\GreenAlien.controller.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\JumpingPrax\Animations\GreenAlien.controller.meta
+    projectPath: Assets\FungusExamples\JumpingPrax\Animations\GreenAlien.controller.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\JumpingPrax\Animations\JumpingAlien.anim
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\JumpingPrax\Animations\JumpingAlien.anim
+    projectPath: Assets\FungusExamples\JumpingPrax\Animations\JumpingAlien.anim
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\JumpingPrax\Animations\JumpingAlien.anim.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\JumpingPrax\Animations\JumpingAlien.anim.meta
+    projectPath: Assets\FungusExamples\JumpingPrax\Animations\JumpingAlien.anim.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\JumpingPrax\JumpingPrax.unity
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\JumpingPrax\JumpingPrax.unity
+    projectPath: Assets\FungusExamples\JumpingPrax\JumpingPrax.unity
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\JumpingPrax\JumpingPrax.unity.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\JumpingPrax\JumpingPrax.unity.meta
+    projectPath: Assets\FungusExamples\JumpingPrax\JumpingPrax.unity.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\JumpingPrax\Music.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\JumpingPrax\Music.meta
+    projectPath: Assets\FungusExamples\JumpingPrax\Music.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\JumpingPrax\Music\PraxMusic.mp3
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\JumpingPrax\Music\PraxMusic.mp3
+    projectPath: Assets\FungusExamples\JumpingPrax\Music\PraxMusic.mp3
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\JumpingPrax\Music\PraxMusic.mp3.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\JumpingPrax\Music\PraxMusic.mp3.meta
+    projectPath: Assets\FungusExamples\JumpingPrax\Music\PraxMusic.mp3.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\JumpingPrax\Sprites.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\JumpingPrax\Sprites.meta
+    projectPath: Assets\FungusExamples\JumpingPrax\Sprites.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\JumpingPrax\Sprites\GreenAlienFlustered.png
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\JumpingPrax\Sprites\GreenAlienFlustered.png
+    projectPath: Assets\FungusExamples\JumpingPrax\Sprites\GreenAlienFlustered.png
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\JumpingPrax\Sprites\GreenAlienFlustered.png.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\JumpingPrax\Sprites\GreenAlienFlustered.png.meta
+    projectPath: Assets\FungusExamples\JumpingPrax\Sprites\GreenAlienFlustered.png.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\JumpingPrax\Sprites\GreenAlienSad.png
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\JumpingPrax\Sprites\GreenAlienSad.png
+    projectPath: Assets\FungusExamples\JumpingPrax\Sprites\GreenAlienSad.png
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\JumpingPrax\Sprites\GreenAlienSad.png.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\JumpingPrax\Sprites\GreenAlienSad.png.meta
+    projectPath: Assets\FungusExamples\JumpingPrax\Sprites\GreenAlienSad.png.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\JumpingPrax\Sprites\SmileyGreenAlienNerdy.png
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\JumpingPrax\Sprites\SmileyGreenAlienNerdy.png
+    projectPath: Assets\FungusExamples\JumpingPrax\Sprites\SmileyGreenAlienNerdy.png
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\JumpingPrax\Sprites\SmileyGreenAlienNerdy.png.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\JumpingPrax\Sprites\SmileyGreenAlienNerdy.png.meta
+    projectPath: Assets\FungusExamples\JumpingPrax\Sprites\SmileyGreenAlienNerdy.png.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\JumpingPrax\Sprites\SmileyGreenAlienWow.png
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\JumpingPrax\Sprites\SmileyGreenAlienWow.png
+    projectPath: Assets\FungusExamples\JumpingPrax\Sprites\SmileyGreenAlienWow.png
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\JumpingPrax\Sprites\SmileyGreenAlienWow.png.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\JumpingPrax\Sprites\SmileyGreenAlienWow.png.meta
+    projectPath: Assets\FungusExamples\JumpingPrax\Sprites\SmileyGreenAlienWow.png.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\JumpingPrax\Sprites\Switzerland.jpg
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\JumpingPrax\Sprites\Switzerland.jpg
+    projectPath: Assets\FungusExamples\JumpingPrax\Sprites\Switzerland.jpg
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\JumpingPrax\Sprites\Switzerland.jpg.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\JumpingPrax\Sprites\Switzerland.jpg.meta
+    projectPath: Assets\FungusExamples\JumpingPrax\Sprites\Switzerland.jpg.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\LeanTween.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\LeanTween.meta
+    projectPath: Assets\FungusExamples\LeanTween.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\LeanTween\LeanTween.unity
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\LeanTween\LeanTween.unity
+    projectPath: Assets\FungusExamples\LeanTween\LeanTween.unity
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\LeanTween\LeanTween.unity.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\LeanTween\LeanTween.unity.meta
+    projectPath: Assets\FungusExamples\LeanTween\LeanTween.unity.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Math.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Math.meta
+    projectPath: Assets\FungusExamples\Math.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Math\MathQuiz.unity
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Math\MathQuiz.unity
+    projectPath: Assets\FungusExamples\Math\MathQuiz.unity
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Math\MathQuiz.unity.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Math\MathQuiz.unity.meta
+    projectPath: Assets\FungusExamples\Math\MathQuiz.unity.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\MenuShuffle.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\MenuShuffle.meta
+    projectPath: Assets\FungusExamples\MenuShuffle.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\MenuShuffle\MenuShuffle.unity
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\MenuShuffle\MenuShuffle.unity
+    projectPath: Assets\FungusExamples\MenuShuffle\MenuShuffle.unity
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\MenuShuffle\MenuShuffle.unity.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\MenuShuffle\MenuShuffle.unity.meta
+    projectPath: Assets\FungusExamples\MenuShuffle\MenuShuffle.unity.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\MonoBehEvents.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\MonoBehEvents.meta
+    projectPath: Assets\FungusExamples\MonoBehEvents.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\MonoBehEvents\Blank.mat
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\MonoBehEvents\Blank.mat
+    projectPath: Assets\FungusExamples\MonoBehEvents\Blank.mat
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\MonoBehEvents\Blank.mat.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\MonoBehEvents\Blank.mat.meta
+    projectPath: Assets\FungusExamples\MonoBehEvents\Blank.mat.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\MonoBehEvents\Bouncy.physicMaterial
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\MonoBehEvents\Bouncy.physicMaterial
+    projectPath: Assets\FungusExamples\MonoBehEvents\Bouncy.physicMaterial
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\MonoBehEvents\Bouncy.physicMaterial.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\MonoBehEvents\Bouncy.physicMaterial.meta
+    projectPath: Assets\FungusExamples\MonoBehEvents\Bouncy.physicMaterial.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\MonoBehEvents\Bouncy.physicsMaterial2D
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\MonoBehEvents\Bouncy.physicsMaterial2D
+    projectPath: Assets\FungusExamples\MonoBehEvents\Bouncy.physicsMaterial2D
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\MonoBehEvents\Bouncy.physicsMaterial2D.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\MonoBehEvents\Bouncy.physicsMaterial2D.meta
+    projectPath: Assets\FungusExamples\MonoBehEvents\Bouncy.physicsMaterial2D.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\MonoBehEvents\Hit_Hurt10.wav
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\MonoBehEvents\Hit_Hurt10.wav
+    projectPath: Assets\FungusExamples\MonoBehEvents\Hit_Hurt10.wav
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\MonoBehEvents\Hit_Hurt10.wav.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\MonoBehEvents\Hit_Hurt10.wav.meta
+    projectPath: Assets\FungusExamples\MonoBehEvents\Hit_Hurt10.wav.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\MonoBehEvents\MouseEvents.unity
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\MonoBehEvents\MouseEvents.unity
+    projectPath: Assets\FungusExamples\MonoBehEvents\MouseEvents.unity
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\MonoBehEvents\MouseEvents.unity.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\MonoBehEvents\MouseEvents.unity.meta
+    projectPath: Assets\FungusExamples\MonoBehEvents\MouseEvents.unity.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\MonoBehEvents\PhysicsInteraction.unity
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\MonoBehEvents\PhysicsInteraction.unity
+    projectPath: Assets\FungusExamples\MonoBehEvents\PhysicsInteraction.unity
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\MonoBehEvents\PhysicsInteraction.unity.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\MonoBehEvents\PhysicsInteraction.unity.meta
+    projectPath: Assets\FungusExamples\MonoBehEvents\PhysicsInteraction.unity.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\MonoBehEvents\SpriteColorChangeFromFungusMouseEvent.cs
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\MonoBehEvents\SpriteColorChangeFromFungusMouseEvent.cs
+    projectPath: Assets\FungusExamples\MonoBehEvents\SpriteColorChangeFromFungusMouseEvent.cs
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\MonoBehEvents\SpriteColorChangeFromFungusMouseEvent.cs.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\MonoBehEvents\SpriteColorChangeFromFungusMouseEvent.cs.meta
+    projectPath: Assets\FungusExamples\MonoBehEvents\SpriteColorChangeFromFungusMouseEvent.cs.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Playground.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Playground.meta
+    projectPath: Assets\FungusExamples\Playground.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Playground\Defender.unity
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Playground\Defender.unity
+    projectPath: Assets\FungusExamples\Playground\Defender.unity
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Playground\Defender.unity.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Playground\Defender.unity.meta
+    projectPath: Assets\FungusExamples\Playground\Defender.unity.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Playground\Football.unity
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Playground\Football.unity
+    projectPath: Assets\FungusExamples\Playground\Football.unity
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Playground\Football.unity.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Playground\Football.unity.meta
+    projectPath: Assets\FungusExamples\Playground\Football.unity.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Playground\Lander.unity
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Playground\Lander.unity
+    projectPath: Assets\FungusExamples\Playground\Lander.unity
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Playground\Lander.unity.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Playground\Lander.unity.meta
+    projectPath: Assets\FungusExamples\Playground\Lander.unity.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Playground\Prefabs.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Playground\Prefabs.meta
+    projectPath: Assets\FungusExamples\Playground\Prefabs.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Playground\Prefabs\Bouncy.physicsMaterial2D
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Playground\Prefabs\Bouncy.physicsMaterial2D
+    projectPath: Assets\FungusExamples\Playground\Prefabs\Bouncy.physicsMaterial2D
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Playground\Prefabs\Bouncy.physicsMaterial2D.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Playground\Prefabs\Bouncy.physicsMaterial2D.meta
+    projectPath: Assets\FungusExamples\Playground\Prefabs\Bouncy.physicsMaterial2D.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Playground\Prefabs\Cannon.prefab
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Playground\Prefabs\Cannon.prefab
+    projectPath: Assets\FungusExamples\Playground\Prefabs\Cannon.prefab
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Playground\Prefabs\Cannon.prefab.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Playground\Prefabs\Cannon.prefab.meta
+    projectPath: Assets\FungusExamples\Playground\Prefabs\Cannon.prefab.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Playground\Prefabs\Enemy.prefab
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Playground\Prefabs\Enemy.prefab
+    projectPath: Assets\FungusExamples\Playground\Prefabs\Enemy.prefab
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Playground\Prefabs\Enemy.prefab.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Playground\Prefabs\Enemy.prefab.meta
+    projectPath: Assets\FungusExamples\Playground\Prefabs\Enemy.prefab.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Playground\Prefabs\EnemyDieParticle.prefab
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Playground\Prefabs\EnemyDieParticle.prefab
+    projectPath: Assets\FungusExamples\Playground\Prefabs\EnemyDieParticle.prefab
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Playground\Prefabs\EnemyDieParticle.prefab.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Playground\Prefabs\EnemyDieParticle.prefab.meta
+    projectPath: Assets\FungusExamples\Playground\Prefabs\EnemyDieParticle.prefab.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Playground\Prefabs\Laser.prefab
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Playground\Prefabs\Laser.prefab
+    projectPath: Assets\FungusExamples\Playground\Prefabs\Laser.prefab
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Playground\Prefabs\Laser.prefab.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Playground\Prefabs\Laser.prefab.meta
+    projectPath: Assets\FungusExamples\Playground\Prefabs\Laser.prefab.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Playground\Prefabs\LeftGoal.prefab
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Playground\Prefabs\LeftGoal.prefab
+    projectPath: Assets\FungusExamples\Playground\Prefabs\LeftGoal.prefab
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Playground\Prefabs\LeftGoal.prefab.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Playground\Prefabs\LeftGoal.prefab.meta
+    projectPath: Assets\FungusExamples\Playground\Prefabs\LeftGoal.prefab.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Playground\Prefabs\P1.prefab
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Playground\Prefabs\P1.prefab
+    projectPath: Assets\FungusExamples\Playground\Prefabs\P1.prefab
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Playground\Prefabs\P1.prefab.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Playground\Prefabs\P1.prefab.meta
+    projectPath: Assets\FungusExamples\Playground\Prefabs\P1.prefab.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Playground\Prefabs\Spawner.prefab
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Playground\Prefabs\Spawner.prefab
+    projectPath: Assets\FungusExamples\Playground\Prefabs\Spawner.prefab
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Playground\Prefabs\Spawner.prefab.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Playground\Prefabs\Spawner.prefab.meta
+    projectPath: Assets\FungusExamples\Playground\Prefabs\Spawner.prefab.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Playground\ReadMe.md
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Playground\ReadMe.md
+    projectPath: Assets\FungusExamples\Playground\ReadMe.md
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Playground\ReadMe.md.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Playground\ReadMe.md.meta
+    projectPath: Assets\FungusExamples\Playground\ReadMe.md.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Playground\Sprites.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Playground\Sprites.meta
+    projectPath: Assets\FungusExamples\Playground\Sprites.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Playground\Sprites\Circle.png
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Playground\Sprites\Circle.png
+    projectPath: Assets\FungusExamples\Playground\Sprites\Circle.png
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Playground\Sprites\Circle.png.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Playground\Sprites\Circle.png.meta
+    projectPath: Assets\FungusExamples\Playground\Sprites\Circle.png.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Playground\Sprites\Hexagon.png
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Playground\Sprites\Hexagon.png
+    projectPath: Assets\FungusExamples\Playground\Sprites\Hexagon.png
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Playground\Sprites\Hexagon.png.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Playground\Sprites\Hexagon.png.meta
+    projectPath: Assets\FungusExamples\Playground\Sprites\Hexagon.png.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Playground\Sprites\Square.png
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Playground\Sprites\Square.png
+    projectPath: Assets\FungusExamples\Playground\Sprites\Square.png
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Playground\Sprites\Square.png.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Playground\Sprites\Square.png.meta
+    projectPath: Assets\FungusExamples\Playground\Sprites\Square.png.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Playground\Sprites\Triangle.png
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Playground\Sprites\Triangle.png
+    projectPath: Assets\FungusExamples\Playground\Sprites\Triangle.png
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Playground\Sprites\Triangle.png.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Playground\Sprites\Triangle.png.meta
+    projectPath: Assets\FungusExamples\Playground\Sprites\Triangle.png.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\SaveGame.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\SaveGame.meta
+    projectPath: Assets\FungusExamples\SaveGame.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\SaveGame\SaveGame.unity
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\SaveGame\SaveGame.unity
+    projectPath: Assets\FungusExamples\SaveGame\SaveGame.unity
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\SaveGame\SaveGame.unity.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\SaveGame\SaveGame.unity.meta
+    projectPath: Assets\FungusExamples\SaveGame\SaveGame.unity.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\SayHolds.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\SayHolds.meta
+    projectPath: Assets\FungusExamples\SayHolds.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\SayHolds\SayHolds.unity
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\SayHolds\SayHolds.unity
+    projectPath: Assets\FungusExamples\SayHolds\SayHolds.unity
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\SayHolds\SayHolds.unity.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\SayHolds\SayHolds.unity.meta
+    projectPath: Assets\FungusExamples\SayHolds\SayHolds.unity.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\SayHolds\VO1.mp3
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\SayHolds\VO1.mp3
+    projectPath: Assets\FungusExamples\SayHolds\VO1.mp3
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\SayHolds\VO1.mp3.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\SayHolds\VO1.mp3.meta
+    projectPath: Assets\FungusExamples\SayHolds\VO1.mp3.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\SayHolds\VO2.mp3
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\SayHolds\VO2.mp3
+    projectPath: Assets\FungusExamples\SayHolds\VO2.mp3
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\SayHolds\VO2.mp3.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\SayHolds\VO2.mp3.meta
+    projectPath: Assets\FungusExamples\SayHolds\VO2.mp3.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\SayHolds\VO3.mp3
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\SayHolds\VO3.mp3
+    projectPath: Assets\FungusExamples\SayHolds\VO3.mp3
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\SayHolds\VO3.mp3.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\SayHolds\VO3.mp3.meta
+    projectPath: Assets\FungusExamples\SayHolds\VO3.mp3.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TextMeshPro.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TextMeshPro.meta
+    projectPath: Assets\FungusExamples\TextMeshPro.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TextMeshPro\README.md
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TextMeshPro\README.md
+    projectPath: Assets\FungusExamples\TextMeshPro\README.md
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TextMeshPro\README.md.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TextMeshPro\README.md.meta
+    projectPath: Assets\FungusExamples\TextMeshPro\README.md.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TextMeshPro\TMpro Demo.unity
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TextMeshPro\TMpro
+      Demo.unity
+    projectPath: Assets\FungusExamples\TextMeshPro\TMpro Demo.unity
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TextMeshPro\TMpro Demo.unity.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TextMeshPro\TMpro
+      Demo.unity.meta
+    projectPath: Assets\FungusExamples\TextMeshPro\TMpro Demo.unity.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheFacility.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheFacility.meta
+    projectPath: Assets\FungusExamples\TheFacility.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheFacility\Fonts.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheFacility\Fonts.meta
+    projectPath: Assets\FungusExamples\TheFacility\Fonts.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheFacility\Fonts\aleo.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheFacility\Fonts\aleo.meta
+    projectPath: Assets\FungusExamples\TheFacility\Fonts\aleo.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheFacility\Fonts\aleo\Aleo-Regular.otf
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheFacility\Fonts\aleo\Aleo-Regular.otf
+    projectPath: Assets\FungusExamples\TheFacility\Fonts\aleo\Aleo-Regular.otf
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheFacility\Fonts\aleo\Aleo-Regular.otf.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheFacility\Fonts\aleo\Aleo-Regular.otf.meta
+    projectPath: Assets\FungusExamples\TheFacility\Fonts\aleo\Aleo-Regular.otf.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheFacility\Fonts\aleo\SIL Open Font License.txt
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheFacility\Fonts\aleo\SIL
+      Open Font License.txt
+    projectPath: Assets\FungusExamples\TheFacility\Fonts\aleo\SIL Open Font License.txt
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheFacility\Fonts\aleo\SIL Open Font License.txt.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheFacility\Fonts\aleo\SIL
+      Open Font License.txt.meta
+    projectPath: Assets\FungusExamples\TheFacility\Fonts\aleo\SIL Open Font License.txt.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheFacility\Music.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheFacility\Music.meta
+    projectPath: Assets\FungusExamples\TheFacility\Music.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheFacility\Music\CKZ_-_09_-_Youre_Not_Real.mp3
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheFacility\Music\CKZ_-_09_-_Youre_Not_Real.mp3
+    projectPath: Assets\FungusExamples\TheFacility\Music\CKZ_-_09_-_Youre_Not_Real.mp3
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheFacility\Music\CKZ_-_09_-_Youre_Not_Real.mp3.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheFacility\Music\CKZ_-_09_-_Youre_Not_Real.mp3.meta
+    projectPath: Assets\FungusExamples\TheFacility\Music\CKZ_-_09_-_Youre_Not_Real.mp3.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheFacility\Sprites.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheFacility\Sprites.meta
+    projectPath: Assets\FungusExamples\TheFacility\Sprites.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheFacility\Sprites\Vignette.png
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheFacility\Sprites\Vignette.png
+    projectPath: Assets\FungusExamples\TheFacility\Sprites\Vignette.png
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheFacility\Sprites\Vignette.png.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheFacility\Sprites\Vignette.png.meta
+    projectPath: Assets\FungusExamples\TheFacility\Sprites\Vignette.png.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheFacility\TheFacility.unity
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheFacility\TheFacility.unity
+    projectPath: Assets\FungusExamples\TheFacility\TheFacility.unity
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheFacility\TheFacility.unity.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheFacility\TheFacility.unity.meta
+    projectPath: Assets\FungusExamples\TheFacility\TheFacility.unity.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter.meta
+    projectPath: Assets\FungusExamples\TheHunter.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Audio.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Audio.meta
+    projectPath: Assets\FungusExamples\TheHunter\Audio.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Audio\BearRoar.wav
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Audio\BearRoar.wav
+    projectPath: Assets\FungusExamples\TheHunter\Audio\BearRoar.wav
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Audio\BearRoar.wav.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Audio\BearRoar.wav.meta
+    projectPath: Assets\FungusExamples\TheHunter\Audio\BearRoar.wav.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Audio\Music.mp3
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Audio\Music.mp3
+    projectPath: Assets\FungusExamples\TheHunter\Audio\Music.mp3
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Audio\Music.mp3.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Audio\Music.mp3.meta
+    projectPath: Assets\FungusExamples\TheHunter\Audio\Music.mp3.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Audio\Typing.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Audio\Typing.meta
+    projectPath: Assets\FungusExamples\TheHunter\Audio\Typing.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Audio\Typing\AngryGiantInsect.wav
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Audio\Typing\AngryGiantInsect.wav
+    projectPath: Assets\FungusExamples\TheHunter\Audio\Typing\AngryGiantInsect.wav
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Audio\Typing\AngryGiantInsect.wav.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Audio\Typing\AngryGiantInsect.wav.meta
+    projectPath: Assets\FungusExamples\TheHunter\Audio\Typing\AngryGiantInsect.wav.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Audio\Typing\JamesEarlJBot.wav
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Audio\Typing\JamesEarlJBot.wav
+    projectPath: Assets\FungusExamples\TheHunter\Audio\Typing\JamesEarlJBot.wav
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Audio\Typing\JamesEarlJBot.wav.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Audio\Typing\JamesEarlJBot.wav.meta
+    projectPath: Assets\FungusExamples\TheHunter\Audio\Typing\JamesEarlJBot.wav.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Audio\Typing\JiminyC.wav
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Audio\Typing\JiminyC.wav
+    projectPath: Assets\FungusExamples\TheHunter\Audio\Typing\JiminyC.wav
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Audio\Typing\JiminyC.wav.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Audio\Typing\JiminyC.wav.meta
+    projectPath: Assets\FungusExamples\TheHunter\Audio\Typing\JiminyC.wav.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Audio\Typing\RobotGossip.wav
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Audio\Typing\RobotGossip.wav
+    projectPath: Assets\FungusExamples\TheHunter\Audio\Typing\RobotGossip.wav
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Audio\Typing\RobotGossip.wav.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Audio\Typing\RobotGossip.wav.meta
+    projectPath: Assets\FungusExamples\TheHunter\Audio\Typing\RobotGossip.wav.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Audio\Typing\SlightlyAnnoyedComputer.wav
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Audio\Typing\SlightlyAnnoyedComputer.wav
+    projectPath: Assets\FungusExamples\TheHunter\Audio\Typing\SlightlyAnnoyedComputer.wav
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Audio\Typing\SlightlyAnnoyedComputer.wav.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Audio\Typing\SlightlyAnnoyedComputer.wav.meta
+    projectPath: Assets\FungusExamples\TheHunter\Audio\Typing\SlightlyAnnoyedComputer.wav.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Audio\Typing\SqueakyExplanation.wav
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Audio\Typing\SqueakyExplanation.wav
+    projectPath: Assets\FungusExamples\TheHunter\Audio\Typing\SqueakyExplanation.wav
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Audio\Typing\SqueakyExplanation.wav.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Audio\Typing\SqueakyExplanation.wav.meta
+    projectPath: Assets\FungusExamples\TheHunter\Audio\Typing\SqueakyExplanation.wav.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Audio\Typing\UnderwaterMorse.wav
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Audio\Typing\UnderwaterMorse.wav
+    projectPath: Assets\FungusExamples\TheHunter\Audio\Typing\UnderwaterMorse.wav
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Audio\Typing\UnderwaterMorse.wav.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Audio\Typing\UnderwaterMorse.wav.meta
+    projectPath: Assets\FungusExamples\TheHunter\Audio\Typing\UnderwaterMorse.wav.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Sprites.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Sprites.meta
+    projectPath: Assets\FungusExamples\TheHunter\Sprites.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Sprites\Bear.png
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Sprites\Bear.png
+    projectPath: Assets\FungusExamples\TheHunter\Sprites\Bear.png
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Sprites\Bear.png.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Sprites\Bear.png.meta
+    projectPath: Assets\FungusExamples\TheHunter\Sprites\Bear.png.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Sprites\BearHead.png
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Sprites\BearHead.png
+    projectPath: Assets\FungusExamples\TheHunter\Sprites\BearHead.png
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Sprites\BearHead.png.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Sprites\BearHead.png.meta
+    projectPath: Assets\FungusExamples\TheHunter\Sprites\BearHead.png.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Sprites\Ciara.psd
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Sprites\Ciara.psd
+    projectPath: Assets\FungusExamples\TheHunter\Sprites\Ciara.psd
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Sprites\Ciara.psd.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Sprites\Ciara.psd.meta
+    projectPath: Assets\FungusExamples\TheHunter\Sprites\Ciara.psd.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Sprites\CiaraHead.psd
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Sprites\CiaraHead.psd
+    projectPath: Assets\FungusExamples\TheHunter\Sprites\CiaraHead.psd
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Sprites\CiaraHead.psd.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Sprites\CiaraHead.psd.meta
+    projectPath: Assets\FungusExamples\TheHunter\Sprites\CiaraHead.psd.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Sprites\DeepForest.jpg
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Sprites\DeepForest.jpg
+    projectPath: Assets\FungusExamples\TheHunter\Sprites\DeepForest.jpg
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Sprites\DeepForest.jpg.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Sprites\DeepForest.jpg.meta
+    projectPath: Assets\FungusExamples\TheHunter\Sprites\DeepForest.jpg.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Sprites\SanctuaryForest.jpg
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Sprites\SanctuaryForest.jpg
+    projectPath: Assets\FungusExamples\TheHunter\Sprites\SanctuaryForest.jpg
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Sprites\SanctuaryForest.jpg.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Sprites\SanctuaryForest.jpg.meta
+    projectPath: Assets\FungusExamples\TheHunter\Sprites\SanctuaryForest.jpg.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Sprites\Shay.psd
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Sprites\Shay.psd
+    projectPath: Assets\FungusExamples\TheHunter\Sprites\Shay.psd
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Sprites\Shay.psd.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Sprites\Shay.psd.meta
+    projectPath: Assets\FungusExamples\TheHunter\Sprites\Shay.psd.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Sprites\ShayHead.psd
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Sprites\ShayHead.psd
+    projectPath: Assets\FungusExamples\TheHunter\Sprites\ShayHead.psd
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Sprites\ShayHead.psd.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Sprites\ShayHead.psd.meta
+    projectPath: Assets\FungusExamples\TheHunter\Sprites\ShayHead.psd.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Sprites\Skipper.psd
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Sprites\Skipper.psd
+    projectPath: Assets\FungusExamples\TheHunter\Sprites\Skipper.psd
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Sprites\Skipper.psd.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Sprites\Skipper.psd.meta
+    projectPath: Assets\FungusExamples\TheHunter\Sprites\Skipper.psd.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Sprites\SkipperHead.psd
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Sprites\SkipperHead.psd
+    projectPath: Assets\FungusExamples\TheHunter\Sprites\SkipperHead.psd
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Sprites\SkipperHead.psd.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Sprites\SkipperHead.psd.meta
+    projectPath: Assets\FungusExamples\TheHunter\Sprites\SkipperHead.psd.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Sprites\Waterfall.jpg
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Sprites\Waterfall.jpg
+    projectPath: Assets\FungusExamples\TheHunter\Sprites\Waterfall.jpg
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Sprites\Waterfall.jpg.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Sprites\Waterfall.jpg.meta
+    projectPath: Assets\FungusExamples\TheHunter\Sprites\Waterfall.jpg.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Sprites\WaterfallForest.jpg
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Sprites\WaterfallForest.jpg
+    projectPath: Assets\FungusExamples\TheHunter\Sprites\WaterfallForest.jpg
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\Sprites\WaterfallForest.jpg.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\Sprites\WaterfallForest.jpg.meta
+    projectPath: Assets\FungusExamples\TheHunter\Sprites\WaterfallForest.jpg.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\TheHunter.unity
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\TheHunter.unity
+    projectPath: Assets\FungusExamples\TheHunter\TheHunter.unity
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\TheHunter\TheHunter.unity.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\TheHunter\TheHunter.unity.meta
+    projectPath: Assets\FungusExamples\TheHunter\TheHunter.unity.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Usfxr.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Usfxr.meta
+    projectPath: Assets\FungusExamples\Usfxr.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Usfxr\UsfxrAudioExample.unity
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Usfxr\UsfxrAudioExample.unity
+    projectPath: Assets\FungusExamples\Usfxr\UsfxrAudioExample.unity
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Usfxr\UsfxrAudioExample.unity.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Usfxr\UsfxrAudioExample.unity.meta
+    projectPath: Assets\FungusExamples\Usfxr\UsfxrAudioExample.unity.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Variables.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Variables.meta
+    projectPath: Assets\FungusExamples\Variables.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Variables\GlobalVar.unity
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Variables\GlobalVar.unity
+    projectPath: Assets\FungusExamples\Variables\GlobalVar.unity
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Variables\GlobalVar.unity.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Variables\GlobalVar.unity.meta
+    projectPath: Assets\FungusExamples\Variables\GlobalVar.unity.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Variables\Variables.unity
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Variables\Variables.unity
+    projectPath: Assets\FungusExamples\Variables\Variables.unity
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\Variables\Variables.unity.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\Variables\Variables.unity.meta
+    projectPath: Assets\FungusExamples\Variables\Variables.unity.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\VariationText.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\VariationText.meta
+    projectPath: Assets\FungusExamples\VariationText.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\VariationText\TextVariation.unity
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\VariationText\TextVariation.unity
+    projectPath: Assets\FungusExamples\VariationText\TextVariation.unity
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\FungusExamples\VariationText\TextVariation.unity.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\FungusExamples\VariationText\TextVariation.unity.meta
+    projectPath: Assets\FungusExamples\VariationText\TextVariation.unity.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\JustinGreenBG.jpg
+    fullPath: D:\Unity\Projects\FungusTest\Assets\JustinGreenBG.jpg
+    projectPath: Assets\JustinGreenBG.jpg
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\JustinGreenBG.jpg.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\JustinGreenBG.jpg.meta
+    projectPath: Assets\JustinGreenBG.jpg.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\knife-evidence-custom.png
+    fullPath: D:\Unity\Projects\FungusTest\Assets\knife-evidence-custom.png
+    projectPath: Assets\knife-evidence-custom.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\knife-evidence-custom.png.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\knife-evidence-custom.png.meta
+    projectPath: Assets\knife-evidence-custom.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\Crimescene.unity
+    fullPath: D:\Unity\Projects\FungusTest\Assets\Scenes\Crimescene.unity
+    projectPath: Assets\Scenes\Crimescene.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Scenes\FinalScene.unity
+    fullPath: D:\Unity\Projects\FungusTest\Assets\Scenes\FinalScene.unity
+    projectPath: Assets\Scenes\FinalScene.unity
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\FinalScene.unity.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\Scenes\FinalScene.unity.meta
+    projectPath: Assets\Scenes\FinalScene.unity.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\MenuScreen.unity
+    fullPath: D:\Unity\Projects\FungusTest\Assets\Scenes\MenuScreen.unity
+    projectPath: Assets\Scenes\MenuScreen.unity
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\MenuScreen.unity.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\Scenes\MenuScreen.unity.meta
+    projectPath: Assets\Scenes\MenuScreen.unity.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\SampleScene.unity
+    fullPath: D:\Unity\Projects\FungusTest\Assets\Scenes\SampleScene.unity
+    projectPath: Assets\Scenes\SampleScene.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Scripts.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\Scripts.meta
+    projectPath: Assets\Scripts.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\SFX.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\SFX.meta
+    projectPath: Assets\SFX.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\SFX\Freesound_hyderpotter_dial-tone.wav
+    fullPath: D:\Unity\Projects\FungusTest\Assets\SFX\Freesound_hyderpotter_dial-tone.wav
+    projectPath: Assets\SFX\Freesound_hyderpotter_dial-tone.wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\SFX\Freesound_hyderpotter_dial-tone.wav.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\SFX\Freesound_hyderpotter_dial-tone.wav.meta
+    projectPath: Assets\SFX\Freesound_hyderpotter_dial-tone.wav.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\SFX\Freesound_movingplaid__concrete-step-1.wav
+    fullPath: D:\Unity\Projects\FungusTest\Assets\SFX\Freesound_movingplaid__concrete-step-1.wav
+    projectPath: Assets\SFX\Freesound_movingplaid__concrete-step-1.wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\SFX\Freesound_movingplaid__concrete-step-1.wav.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\SFX\Freesound_movingplaid__concrete-step-1.wav.meta
+    projectPath: Assets\SFX\Freesound_movingplaid__concrete-step-1.wav.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\SFX\Purple Planet Music - Cinematic - Battle Plan (2_17) 100bpm.mp3
+    fullPath: D:\Unity\Projects\FungusTest\Assets\SFX\Purple Planet Music - Cinematic
+      - Battle Plan (2_17) 100bpm.mp3
+    projectPath: Assets\SFX\Purple Planet Music - Cinematic - Battle Plan (2_17) 100bpm.mp3
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\SFX\Purple Planet Music - Cinematic - Battle Plan (2_17) 100bpm.mp3.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\SFX\Purple Planet Music - Cinematic
+      - Battle Plan (2_17) 100bpm.mp3.meta
+    projectPath: Assets\SFX\Purple Planet Music - Cinematic - Battle Plan (2_17) 100bpm.mp3.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\SFX\Purple Planet Music - Cinematic - Claiming the Throne (2_24)
+      84bpm.mp3
+    fullPath: D:\Unity\Projects\FungusTest\Assets\SFX\Purple Planet Music - Cinematic
+      - Claiming the Throne (2_24) 84bpm.mp3
+    projectPath: Assets\SFX\Purple Planet Music - Cinematic - Claiming the Throne
+      (2_24) 84bpm.mp3
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\SFX\Purple Planet Music - Cinematic - Claiming the Throne (2_24)
+      84bpm.mp3.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\SFX\Purple Planet Music - Cinematic
+      - Claiming the Throne (2_24) 84bpm.mp3.meta
+    projectPath: Assets\SFX\Purple Planet Music - Cinematic - Claiming the Throne
+      (2_24) 84bpm.mp3.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\SFX\Purple Planet Music - Themes - Slowly Creeping (1_42).mp3
+    fullPath: D:\Unity\Projects\FungusTest\Assets\SFX\Purple Planet Music - Themes
+      - Slowly Creeping (1_42).mp3
+    projectPath: Assets\SFX\Purple Planet Music - Themes - Slowly Creeping (1_42).mp3
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\SFX\Purple Planet Music - Themes - Slowly Creeping (1_42).mp3.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\SFX\Purple Planet Music - Themes
+      - Slowly Creeping (1_42).mp3.meta
+    projectPath: Assets\SFX\Purple Planet Music - Themes - Slowly Creeping (1_42).mp3.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\SFX\rutgermuller__telephone-placed-in-dock-beep.wav
+    fullPath: D:\Unity\Projects\FungusTest\Assets\SFX\rutgermuller__telephone-placed-in-dock-beep.wav
+    projectPath: Assets\SFX\rutgermuller__telephone-placed-in-dock-beep.wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\SFX\rutgermuller__telephone-placed-in-dock-beep.wav.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\SFX\rutgermuller__telephone-placed-in-dock-beep.wav.meta
+    projectPath: Assets\SFX\rutgermuller__telephone-placed-in-dock-beep.wav.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\SmilingFace.png
+    fullPath: D:\Unity\Projects\FungusTest\Assets\SmilingFace.png
+    projectPath: Assets\SmilingFace.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\SmilingFace.png.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\SmilingFace.png.meta
+    projectPath: Assets\SmilingFace.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\StartButton.png
+    fullPath: D:\Unity\Projects\FungusTest\Assets\StartButton.png
+    projectPath: Assets\StartButton.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\StartButton.png.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\StartButton.png.meta
+    projectPath: Assets\StartButton.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\StupidAlley.jpg
+    fullPath: D:\Unity\Projects\FungusTest\Assets\StupidAlley.jpg
+    projectPath: Assets\StupidAlley.jpg
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\StupidAlley.jpg.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\StupidAlley.jpg.meta
+    projectPath: Assets\StupidAlley.jpg.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Title.png
+    fullPath: D:\Unity\Projects\FungusTest\Assets\Title.png
+    projectPath: Assets\Title.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Title.png.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\Title.png.meta
+    projectPath: Assets\Title.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\TitleBG.png
+    fullPath: D:\Unity\Projects\FungusTest\Assets\TitleBG.png
+    projectPath: Assets\TitleBG.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\TitleBG.png.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\TitleBG.png.meta
+    projectPath: Assets\TitleBG.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Trashbag-transparent.png
+    fullPath: D:\Unity\Projects\FungusTest\Assets\Trashbag-transparent.png
+    projectPath: Assets\Trashbag-transparent.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Trashbag-transparent.png.meta
+    fullPath: D:\Unity\Projects\FungusTest\Assets\Trashbag-transparent.png.meta
+    projectPath: Assets\Trashbag-transparent.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample.exe
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample.exe
+    projectPath: FungusExample.exe
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\app.info
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\app.info
+    projectPath: FungusExample_Data\app.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\boot.config
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\boot.config
+    projectPath: FungusExample_Data\boot.config
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\globalgamemanagers
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\globalgamemanagers
+    projectPath: FungusExample_Data\globalgamemanagers
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\globalgamemanagers.assets
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\globalgamemanagers.assets
+    projectPath: FungusExample_Data\globalgamemanagers.assets
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\level0
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\level0
+    projectPath: FungusExample_Data\level0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\level1
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\level1
+    projectPath: FungusExample_Data\level1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\level2
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\level2
+    projectPath: FungusExample_Data\level2
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\level3
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\level3
+    projectPath: FungusExample_Data\level3
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\Assembly-CSharp.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\Assembly-CSharp.dll
+    projectPath: FungusExample_Data\Managed\Assembly-CSharp.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\Mono.Security.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\Mono.Security.dll
+    projectPath: FungusExample_Data\Managed\Mono.Security.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\mscorlib.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\mscorlib.dll
+    projectPath: FungusExample_Data\Managed\mscorlib.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\netstandard.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\netstandard.dll
+    projectPath: FungusExample_Data\Managed\netstandard.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\System.ComponentModel.Composition.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\System.ComponentModel.Composition.dll
+    projectPath: FungusExample_Data\Managed\System.ComponentModel.Composition.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\System.Configuration.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\System.Configuration.dll
+    projectPath: FungusExample_Data\Managed\System.Configuration.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\System.Core.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\System.Core.dll
+    projectPath: FungusExample_Data\Managed\System.Core.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\System.Data.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\System.Data.dll
+    projectPath: FungusExample_Data\Managed\System.Data.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\System.Diagnostics.StackTrace.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\System.Diagnostics.StackTrace.dll
+    projectPath: FungusExample_Data\Managed\System.Diagnostics.StackTrace.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\System.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\System.dll
+    projectPath: FungusExample_Data\Managed\System.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\System.Drawing.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\System.Drawing.dll
+    projectPath: FungusExample_Data\Managed\System.Drawing.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\System.EnterpriseServices.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\System.EnterpriseServices.dll
+    projectPath: FungusExample_Data\Managed\System.EnterpriseServices.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\System.Globalization.Extensions.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\System.Globalization.Extensions.dll
+    projectPath: FungusExample_Data\Managed\System.Globalization.Extensions.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\System.IO.Compression.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\System.IO.Compression.dll
+    projectPath: FungusExample_Data\Managed\System.IO.Compression.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\System.IO.Compression.FileSystem.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\System.IO.Compression.FileSystem.dll
+    projectPath: FungusExample_Data\Managed\System.IO.Compression.FileSystem.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\System.Net.Http.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\System.Net.Http.dll
+    projectPath: FungusExample_Data\Managed\System.Net.Http.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\System.Numerics.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\System.Numerics.dll
+    projectPath: FungusExample_Data\Managed\System.Numerics.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\System.Runtime.Serialization.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\System.Runtime.Serialization.dll
+    projectPath: FungusExample_Data\Managed\System.Runtime.Serialization.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\System.Runtime.Serialization.Xml.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\System.Runtime.Serialization.Xml.dll
+    projectPath: FungusExample_Data\Managed\System.Runtime.Serialization.Xml.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\System.ServiceModel.Internals.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\System.ServiceModel.Internals.dll
+    projectPath: FungusExample_Data\Managed\System.ServiceModel.Internals.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\System.Transactions.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\System.Transactions.dll
+    projectPath: FungusExample_Data\Managed\System.Transactions.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\System.Xml.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\System.Xml.dll
+    projectPath: FungusExample_Data\Managed\System.Xml.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\System.Xml.Linq.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\System.Xml.Linq.dll
+    projectPath: FungusExample_Data\Managed\System.Xml.Linq.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\System.Xml.XPath.XDocument.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\System.Xml.XPath.XDocument.dll
+    projectPath: FungusExample_Data\Managed\System.Xml.XPath.XDocument.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\Unity.Analytics.DataPrivacy.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\Unity.Analytics.DataPrivacy.dll
+    projectPath: FungusExample_Data\Managed\Unity.Analytics.DataPrivacy.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\Unity.Analytics.StandardEvents.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\Unity.Analytics.StandardEvents.dll
+    projectPath: FungusExample_Data\Managed\Unity.Analytics.StandardEvents.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\Unity.Analytics.Tracker.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\Unity.Analytics.Tracker.dll
+    projectPath: FungusExample_Data\Managed\Unity.Analytics.Tracker.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\Unity.TextMeshPro.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\Unity.TextMeshPro.dll
+    projectPath: FungusExample_Data\Managed\Unity.TextMeshPro.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.AccessibilityModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.AccessibilityModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.AccessibilityModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.AccessibilityModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.AccessibilityModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.AccessibilityModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.AIModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.AIModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.AIModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.AIModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.AIModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.AIModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.AnimationModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.AnimationModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.AnimationModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.AnimationModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.AnimationModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.AnimationModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.ARModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.ARModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.ARModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.ARModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.ARModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.ARModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.AssetBundleModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.AssetBundleModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.AssetBundleModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.AssetBundleModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.AssetBundleModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.AssetBundleModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.AudioModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.AudioModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.AudioModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.AudioModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.AudioModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.AudioModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.BaselibModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.BaselibModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.BaselibModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.BaselibModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.BaselibModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.BaselibModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.ClothModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.ClothModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.ClothModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.ClothModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.ClothModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.ClothModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.ClusterInputModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.ClusterInputModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.ClusterInputModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.ClusterInputModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.ClusterInputModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.ClusterInputModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.ClusterRendererModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.ClusterRendererModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.ClusterRendererModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.ClusterRendererModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.ClusterRendererModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.ClusterRendererModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.CoreModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.CoreModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.CoreModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.CoreModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.CoreModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.CoreModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.CrashReportingModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.CrashReportingModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.CrashReportingModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.CrashReportingModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.CrashReportingModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.CrashReportingModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.DirectorModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.DirectorModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.DirectorModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.DirectorModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.DirectorModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.DirectorModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.FileSystemHttpModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.FileSystemHttpModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.FileSystemHttpModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.FileSystemHttpModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.FileSystemHttpModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.FileSystemHttpModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.GameCenterModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.GameCenterModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.GameCenterModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.GameCenterModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.GameCenterModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.GameCenterModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.GridModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.GridModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.GridModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.GridModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.GridModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.GridModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.HotReloadModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.HotReloadModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.HotReloadModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.HotReloadModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.HotReloadModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.HotReloadModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.ImageConversionModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.ImageConversionModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.ImageConversionModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.ImageConversionModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.ImageConversionModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.ImageConversionModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.IMGUIModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.IMGUIModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.IMGUIModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.IMGUIModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.IMGUIModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.IMGUIModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.InputModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.InputModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.InputModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.InputModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.InputModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.InputModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.JSONSerializeModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.JSONSerializeModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.JSONSerializeModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.JSONSerializeModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.JSONSerializeModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.JSONSerializeModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.LocalizationModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.LocalizationModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.LocalizationModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.LocalizationModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.LocalizationModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.LocalizationModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.Networking.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.Networking.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.Networking.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.ParticleSystemModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.ParticleSystemModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.ParticleSystemModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.ParticleSystemModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.ParticleSystemModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.ParticleSystemModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.PerformanceReportingModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.PerformanceReportingModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.PerformanceReportingModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.Physics2DModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.Physics2DModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.Physics2DModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.Physics2DModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.Physics2DModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.Physics2DModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.PhysicsModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.PhysicsModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.PhysicsModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.PhysicsModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.PhysicsModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.PhysicsModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.ProfilerModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.ProfilerModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.ProfilerModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.ProfilerModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.ProfilerModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.ProfilerModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.ScreenCaptureModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.ScreenCaptureModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.ScreenCaptureModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.SharedInternalsModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.SharedInternalsModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.SharedInternalsModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.SharedInternalsModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.SharedInternalsModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.SharedInternalsModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.SpatialTracking.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.SpatialTracking.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.SpatialTracking.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.SpriteMaskModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.SpriteMaskModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.SpriteMaskModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.SpriteMaskModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.SpriteMaskModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.SpriteMaskModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.SpriteShapeModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.SpriteShapeModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.SpriteShapeModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.SpriteShapeModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.SpriteShapeModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.SpriteShapeModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.StreamingModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.StreamingModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.StreamingModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.StreamingModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.StreamingModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.StreamingModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.StyleSheetsModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.StyleSheetsModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.StyleSheetsModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.StyleSheetsModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.StyleSheetsModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.StyleSheetsModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.SubstanceModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.SubstanceModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.SubstanceModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.SubstanceModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.SubstanceModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.SubstanceModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.TerrainModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.TerrainModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.TerrainModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.TerrainModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.TerrainModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.TerrainModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.TerrainPhysicsModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.TerrainPhysicsModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.TerrainPhysicsModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.TextCoreModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.TextCoreModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.TextCoreModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.TextCoreModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.TextCoreModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.TextCoreModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.TextRenderingModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.TextRenderingModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.TextRenderingModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.TextRenderingModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.TextRenderingModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.TextRenderingModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.TilemapModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.TilemapModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.TilemapModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.TilemapModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.TilemapModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.TilemapModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.Timeline.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.Timeline.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.Timeline.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.TimelineModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.TimelineModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.TimelineModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.TimelineModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.TimelineModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.TimelineModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.TLSModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.TLSModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.TLSModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.TLSModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.TLSModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.TLSModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.UI.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.UI.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.UI.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.UIElementsModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.UIElementsModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.UIElementsModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.UIElementsModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.UIElementsModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.UIElementsModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.UIModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.UIModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.UIModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.UIModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.UIModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.UIModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.UmbraModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.UmbraModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.UmbraModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.UmbraModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.UmbraModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.UmbraModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.UNETModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.UNETModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.UNETModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.UNETModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.UNETModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.UNETModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.UnityAnalyticsModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.UnityAnalyticsModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.UnityAnalyticsModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.UnityConnectModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.UnityConnectModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.UnityConnectModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.UnityConnectModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.UnityConnectModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.UnityConnectModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.UnityTestProtocolModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.UnityTestProtocolModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.UnityTestProtocolModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.UnityWebRequestAudioModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.UnityWebRequestAudioModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.UnityWebRequestAudioModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.UnityWebRequestModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.UnityWebRequestModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.UnityWebRequestModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.UnityWebRequestTextureModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.UnityWebRequestTextureModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.UnityWebRequestTextureModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.UnityWebRequestWWWModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.UnityWebRequestWWWModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.UnityWebRequestWWWModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.VehiclesModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.VehiclesModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.VehiclesModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.VehiclesModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.VehiclesModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.VehiclesModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.VFXModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.VFXModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.VFXModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.VFXModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.VFXModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.VFXModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.VideoModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.VideoModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.VideoModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.VideoModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.VideoModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.VideoModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.VRModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.VRModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.VRModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.VRModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.VRModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.VRModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.WindModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.WindModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.WindModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.WindModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.WindModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.WindModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.XRModule.dll
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.XRModule.dll
+    projectPath: FungusExample_Data\Managed\UnityEngine.XRModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Managed\UnityEngine.XRModule.xml
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Managed\UnityEngine.XRModule.xml
+    projectPath: FungusExample_Data\Managed\UnityEngine.XRModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\resources.assets
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\resources.assets
+    projectPath: FungusExample_Data\resources.assets
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\resources.assets.resS
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\resources.assets.resS
+    projectPath: FungusExample_Data\resources.assets.resS
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\resources.resource
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\resources.resource
+    projectPath: FungusExample_Data\resources.resource
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Resources\unity default resources
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Resources\unity default
+      resources
+    projectPath: FungusExample_Data\Resources\unity default resources
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\Resources\unity_builtin_extra
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\Resources\unity_builtin_extra
+    projectPath: FungusExample_Data\Resources\unity_builtin_extra
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\sharedassets0.assets
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\sharedassets0.assets
+    projectPath: FungusExample_Data\sharedassets0.assets
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\sharedassets0.assets.resS
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\sharedassets0.assets.resS
+    projectPath: FungusExample_Data\sharedassets0.assets.resS
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\sharedassets0.resource
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\sharedassets0.resource
+    projectPath: FungusExample_Data\sharedassets0.resource
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\sharedassets1.assets
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\sharedassets1.assets
+    projectPath: FungusExample_Data\sharedassets1.assets
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\sharedassets1.assets.resS
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\sharedassets1.assets.resS
+    projectPath: FungusExample_Data\sharedassets1.assets.resS
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\sharedassets1.resource
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\sharedassets1.resource
+    projectPath: FungusExample_Data\sharedassets1.resource
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\sharedassets2.assets
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\sharedassets2.assets
+    projectPath: FungusExample_Data\sharedassets2.assets
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\sharedassets2.assets.resS
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\sharedassets2.assets.resS
+    projectPath: FungusExample_Data\sharedassets2.assets.resS
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\sharedassets2.resource
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\sharedassets2.resource
+    projectPath: FungusExample_Data\sharedassets2.resource
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\sharedassets3.assets
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\sharedassets3.assets
+    projectPath: FungusExample_Data\sharedassets3.assets
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\sharedassets3.assets.resS
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\sharedassets3.assets.resS
+    projectPath: FungusExample_Data\sharedassets3.assets.resS
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: FungusExample_Data\sharedassets3.resource
+    fullPath: D:\Unity\Projects\FungusTest\FungusExample_Data\sharedassets3.resource
+    projectPath: FungusExample_Data\sharedassets3.resource
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
+    fullPath: D:\Unity\Projects\FungusTest\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
+    projectPath: MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
+    fullPath: D:\Unity\Projects\FungusTest\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
+    projectPath: MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
+    fullPath: D:\Unity\Projects\FungusTest\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
+    projectPath: MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+    fullPath: D:\Unity\Projects\FungusTest\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+    projectPath: MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MonoBleedingEdge\etc\mono\2.0\machine.config
+    fullPath: D:\Unity\Projects\FungusTest\MonoBleedingEdge\etc\mono\2.0\machine.config
+    projectPath: MonoBleedingEdge\etc\mono\2.0\machine.config
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MonoBleedingEdge\etc\mono\2.0\settings.map
+    fullPath: D:\Unity\Projects\FungusTest\MonoBleedingEdge\etc\mono\2.0\settings.map
+    projectPath: MonoBleedingEdge\etc\mono\2.0\settings.map
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MonoBleedingEdge\etc\mono\2.0\web.config
+    fullPath: D:\Unity\Projects\FungusTest\MonoBleedingEdge\etc\mono\2.0\web.config
+    projectPath: MonoBleedingEdge\etc\mono\2.0\web.config
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
+    fullPath: D:\Unity\Projects\FungusTest\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
+    projectPath: MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
+    fullPath: D:\Unity\Projects\FungusTest\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
+    projectPath: MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MonoBleedingEdge\etc\mono\4.0\machine.config
+    fullPath: D:\Unity\Projects\FungusTest\MonoBleedingEdge\etc\mono\4.0\machine.config
+    projectPath: MonoBleedingEdge\etc\mono\4.0\machine.config
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MonoBleedingEdge\etc\mono\4.0\settings.map
+    fullPath: D:\Unity\Projects\FungusTest\MonoBleedingEdge\etc\mono\4.0\settings.map
+    projectPath: MonoBleedingEdge\etc\mono\4.0\settings.map
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MonoBleedingEdge\etc\mono\4.0\web.config
+    fullPath: D:\Unity\Projects\FungusTest\MonoBleedingEdge\etc\mono\4.0\web.config
+    projectPath: MonoBleedingEdge\etc\mono\4.0\web.config
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
+    fullPath: D:\Unity\Projects\FungusTest\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
+    projectPath: MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
+    fullPath: D:\Unity\Projects\FungusTest\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
+    projectPath: MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MonoBleedingEdge\etc\mono\4.5\machine.config
+    fullPath: D:\Unity\Projects\FungusTest\MonoBleedingEdge\etc\mono\4.5\machine.config
+    projectPath: MonoBleedingEdge\etc\mono\4.5\machine.config
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MonoBleedingEdge\etc\mono\4.5\settings.map
+    fullPath: D:\Unity\Projects\FungusTest\MonoBleedingEdge\etc\mono\4.5\settings.map
+    projectPath: MonoBleedingEdge\etc\mono\4.5\settings.map
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MonoBleedingEdge\etc\mono\4.5\web.config
+    fullPath: D:\Unity\Projects\FungusTest\MonoBleedingEdge\etc\mono\4.5\web.config
+    projectPath: MonoBleedingEdge\etc\mono\4.5\web.config
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MonoBleedingEdge\etc\mono\browscap.ini
+    fullPath: D:\Unity\Projects\FungusTest\MonoBleedingEdge\etc\mono\browscap.ini
+    projectPath: MonoBleedingEdge\etc\mono\browscap.ini
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MonoBleedingEdge\etc\mono\config
+    fullPath: D:\Unity\Projects\FungusTest\MonoBleedingEdge\etc\mono\config
+    projectPath: MonoBleedingEdge\etc\mono\config
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MonoBleedingEdge\etc\mono\mconfig\config.xml
+    fullPath: D:\Unity\Projects\FungusTest\MonoBleedingEdge\etc\mono\mconfig\config.xml
+    projectPath: MonoBleedingEdge\etc\mono\mconfig\config.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\EditorBuildSettings.asset
+    fullPath: D:\Unity\Projects\FungusTest\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\GraphicsSettings.asset
+    fullPath: D:\Unity\Projects\FungusTest\ProjectSettings\GraphicsSettings.asset
+    projectPath: ProjectSettings\GraphicsSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\TagManager.asset
+    fullPath: D:\Unity\Projects\FungusTest\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: UnityCrashHandler64.exe
+    fullPath: D:\Unity\Projects\FungusTest\UnityCrashHandler64.exe
+    projectPath: UnityCrashHandler64.exe
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: UnityPlayer.dll
+    fullPath: D:\Unity\Projects\FungusTest\UnityPlayer.dll
+    projectPath: UnityPlayer.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: WinPixEventRuntime.dll
+    fullPath: D:\Unity\Projects\FungusTest\WinPixEventRuntime.dll
+    projectPath: WinPixEventRuntime.dll
+    originalPath: 
+    status: 1
+    staged: 0
